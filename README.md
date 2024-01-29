@@ -1,16 +1,19 @@
-##Calorie Advisor App
+Calorie Advisor App
 
 
 Description:
+
 Developed a calorie advisor app using Streamlit and Google Gemini Pro Vision API. The app allows users to upload images of food items and receive a breakdown of total calories along with details of each food item's calorie intake.
 
 Technologies Used:
+
 Python
 Streamlit
 Google Gemini Pro Vision API
 PIL (Python Imaging Library)
 
 Key Features:
+
 User-friendly interface for uploading images and inputting prompts.
 Integration with Google Gemini Pro Vision API for image analysis and content generation.
 Provides a detailed breakdown of total calories and calorie intake for each food item.
